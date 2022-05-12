@@ -16,6 +16,8 @@ Hello, I'm Ahmet, 18 years old, I live in Başakşehir/Istanbul, I'm a Jr Full S
 <a href="https://www.github.com/ahmetbulbul0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ahmetbulbul0?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
+<a href="https://app.daily.dev/ahmetbulbul"><img src="https://api.daily.dev/devcards/abae33f6943a412bb635cd8787ac7906.png?r=ioc" width="400" alt="Ahmet Bülbül's Dev Card"/></a>
+
 ### Skills
 
 <p align="left">
