@@ -1,10 +1,10 @@
-Hi 👋 My name is Ahmet Bülbül
+Hi 👋 My name is Ahmet
 =============================
 
-Full Stack Web Developer & Web Designer
+Full Stack Web Developer
 ---------------------------------------
 
-Hello, I'm Ahmet, 18 years old, I live in Başakşehir/Istanbul, I'm a Jr Full Stack Web Developer, I started web development 3 years ago, I started learning coding to translate the projects in my mind into reality, first I worked with a mentor (about 3 months) then I continued on my own with the help of internet resources and books, I am constantly practicing, I want to improve my skills and gain new skills. I can work in full stack web development, backend development and frontend development positions. I am willing to learn, I do not want to be content with what I know, I like to try different things, I do not like to give up in the face of difficulties, I like to develop something.
+Hello, I'm Ahmet, 18 years old, I live in Basaksehir/Istanbul, I'm a Jr Full Stack Web Developer, I started web development 3 years ago, I started learning coding to translate the projects in my mind into reality, first I worked with a mentor (about 3 months) then I continued on my own with the help of internet resources and books, I am constantly practicing, I want to improve my skills and gain new skills. I spend most of my time developing sample projects. I can work in full stack web development, backend development and frontend development positions. I am willing to learn, I do not want to be content with what I know, I like to try different things, I do not like to give up in the face of difficulties, I like to develop something. I like to produce alternative solutions to problems.
 
 * 🌍  I'm based in Istanbul/Turkey
 * 🖥️  See my portfolio at [Linkedin Profile](http://linkedin.com/in/ahmetbulbul)
