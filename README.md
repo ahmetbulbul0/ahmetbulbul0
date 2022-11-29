@@ -1,17 +1,15 @@
-Hi 👋 My name is Ahmet
-=============================
+# Hi 👋 My name is Ahmet
 
-Full Stack Web Developer
----------------------------------------
+## Full Stack Web Developer
 
 Hello, I'm Ahmet, 18 years old, I live in Basaksehir/Istanbul, I'm a Jr Full Stack Web Developer, I started web development 3 years ago, I started learning coding to translate the projects in my mind into reality, first I worked with a mentor (about 3 months) then I continued on my own with the help of internet resources and books, I am constantly practicing, I want to improve my skills and gain new skills. I spend most of my time developing sample projects. I can work in full stack web development, backend development and frontend development positions. I am willing to learn, I do not want to be content with what I know, I like to try different things, I do not like to give up in the face of difficulties, I like to develop something. I like to produce alternative solutions to problems.
 
-* 🌍  I'm based in Istanbul/Turkey
-* 🖥️  See my portfolio at [Linkedin Profile](http://linkedin.com/in/ahmetbulbul)
-* ✉️  You can contact me at [ahmetbulbul@protonmail.com](mailto:ahmetbulbul@protonmail.com)
-* 🚀  I'm currently working on [AradığınCümle](http://aradigincumle.com)
-* 🧠  I'm learning VueJs, TailwindCss
-* 🤝  I'm open to collaborating on Every Web Projects
+- 🌍  I'm based in Istanbul/Turkey
+- 🖥️  See my portfolio at [Linkedin Profile](http://linkedin.com/in/ahmetbulbul)
+- ✉️  You can contact me at [ahmetbulbul@protonmail.com](mailto:ahmetbulbul@protonmail.com)
+- 🚀  I'm currently working on [AradığınCümle](http://aradigincumle.com)
+- 🧠  I'm learning VueJs, TailwindCss
+- 🤝  I'm open to collaborating on Every Web Projects
 
 <a href="https://www.github.com/ahmetbulbul0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ahmetbulbul0?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
@@ -34,7 +32,6 @@ src="https://img.shields.io/github/followers/ahmetbulbul0?logo=github&style=for-
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/ahme1bulbul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/ahmetbulbul0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ahme1bulbul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmetbulbul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
@@ -53,4 +50,12 @@ src="https://img.shields.io/github/followers/ahmetbulbul0?logo=github&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ahmetbulbul0/Aradigin-Cumle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Aradigin-Cumle&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/ahmetbulbul0/Aradigin-Cumle-Api" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Aradigin-Cumle-Api&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en"/>
+</a>
+<a href="https://github.com/ahmetbulbul0/Aradigin-Cumle-Web" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Aradigin-Cumle-Web&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
+</a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
