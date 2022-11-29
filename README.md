@@ -9,8 +9,8 @@ Hello, I'm Ahmet, 18 years old, I live in Basaksehir/Istanbul, I'm a Jr Full Sta
 * 🌍  I'm based in Istanbul/Turkey
 * 🖥️  See my portfolio at [Linkedin Profile](http://linkedin.com/in/ahmetbulbul)
 * ✉️  You can contact me at [ahmetbulbul@protonmail.com](mailto:ahmetbulbul@protonmail.com)
-* 🚀  I'm currently working on [AradığınCümle](http://aradigincumle.com)
-* 🧠  I'm learning VueJs, TailwindCss
+* 🚀  I'm currently working on [AradiginCumle-Api](https://github.com/ahmetbulbul0/Aradigin-Cumle-Api) & [AradiginCumle-Web](https://github.com/ahmetbulbul0/Aradigin-Cumle-Api)
+* 🧠  I'm learning VueJs
 * 🤝  I'm open to collaborating on Every Web Projects
 
 <a href="https://www.github.com/ahmetbulbul0" target="_blank" rel="noreferrer"><img
