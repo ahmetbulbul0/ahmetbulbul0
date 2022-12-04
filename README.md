@@ -91,8 +91,6 @@ src="https://img.shields.io/github/followers/ahmetbulbul0?logo=github&style=for-
 
 <a href="http://www.github.com/ahmetbulbul0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetbulbul0&stroke=64748b&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/ahmetbulbul0"><img src="https://activity-graph.herokuapp.com/graph?username=ahmetbulbul0&bg_color=0f172a&color=64748b&line=3382ed&point=64748b&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/ahmetbulbul0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbulbul0&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
