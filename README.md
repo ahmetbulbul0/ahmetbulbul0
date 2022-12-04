@@ -102,7 +102,6 @@ Hello, I'm Ahmet, 18 years old, I live in Basaksehir/Istanbul, I'm a Jr Full Sta
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbulbul0&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
 
-<b>Top Repositories</b>
     <div width="100%" align="center">
         <a href="https://github.com/ahmetbulbul0/Aradigin-Cumle-Api" align="left">
             <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Aradigin-Cumle-Api&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en"/>
