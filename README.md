@@ -7,7 +7,7 @@ Hello, I'm Ahmet, 19 years old, I live in Basaksehir/Istanbul, I'm a Jr Full Sta
 - 🌍  I'm based in Istanbul/Turkey
 - 🖥️  See my portfolio at [Linkedin Profile](http://linkedin.com/in/ahmetbulbul)
 - ✉️  You can contact me at [ahmetbulbul@protonmail.com](mailto:ahmetbulbul@protonmail.com)
-- 🚀  I'm currently working on Aradığın Cümle Nothing
+- 🚀  I'm currently working on Cars Api & Cars Web
 - 🧠  I'm learning VueJs & TailwindCss
 - 🤝  I'm open to collaborating on Every Web Projects
 
@@ -97,10 +97,10 @@ src="https://img.shields.io/github/followers/ahmetbulbul0?logo=github&style=for-
 
 <div width="100%" align="center">
 <a href="https://github.com/ahmetbulbul0/Aradigin-Cumle-Api" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Aradigin-Cumle-Api&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en"/>
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Cars-Api&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en"/>
 </a>
 <a href="https://github.com/ahmetbulbul0/Aradigin-Cumle-Web" align="left">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Aradigin-Cumle-Web&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Cars-Web&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
 </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
