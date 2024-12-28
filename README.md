@@ -2,7 +2,11 @@
 
 ## Full Stack Web Developer
 
-Hello, I'm Ahmet, a 20-year-old Full Stack Web Developer based in Basaksehir, Istanbul. I began my journey in web development 5 years ago, driven by a passion to turn the ideas in my mind into reality. My initial steps were guided by a mentor for about three months, after which I continued to learn independently through online resources and books. I am dedicated to honing my skills, constantly practicing, and seeking to acquire new ones. My primary focus is on developing sample projects, where I can apply and expand my knowledge. I am versatile in full stack web development, with experience in both backend and frontend roles. I am eager to learn and explore new technologies, and I thrive on challenges, always looking for alternative solutions to problems. My determination drives me to push beyond my current limits and continuously improve in this ever-evolving field.
+Hello, I am Ahmet Bülbül, a 21-year-old Full Stack Web Developer with 5 years of experience in backend and frontend development. My journey into web development began with a passion for turning my ideas into reality. I took my first steps with the guidance of a mentor (for 3 months) and then continued learning independently through online resources and books.
+
+As a flexible developer, I have had the opportunity to work on various projects and have demonstrated strong teamwork skills. I am constantly eager to improve myself and learn new technologies. I enjoy creating alternative solutions to problems, designing user-friendly applications, and building efficient software processes.
+
+My career goal is not only to enhance my technical skills but also to make a difference through impactful projects. Looking ahead, I aim to participate in larger-scale projects and make a global impact in the tech industry.
 
 - 🌍  I'm based in Istanbul/Turkey
 - 🖥️  See my portfolio at [Linkedin Profile](http://linkedin.com/in/ahmetbulbul)
