@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/ahmetbulbul0?logo=github&style=for-
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48" height="36" alt="PHP" />
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="48" height="36" alt="Lavarel" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="48" height="36" alt="Laravel" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="36" alt="MySQL" />
@@ -95,16 +95,16 @@ src="https://img.shields.io/github/followers/ahmetbulbul0?logo=github&style=for-
 
 <a href="http://www.github.com/ahmetbulbul0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetbulbul0&stroke=64748b&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://github.com/ahmetbulbul0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbulbul0&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ahmetbulbul0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbulbul0&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
 <a href="https://github.com/ahmetbulbul0/Aradigin-Cumle-Api" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Cars-Api&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en"/>
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Aradigin-Cumle-Api&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en"/>
 </a>
 <a href="https://github.com/ahmetbulbul0/Aradigin-Cumle-Web" align="left">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Cars-Web&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetbulbul0&repo=Aradigin-Cumle-Web&title_color=ffffff&text_color=64748b&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
 </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
